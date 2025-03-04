@@ -1,0 +1,40 @@
+
+body {
+    background: #fafbfe;
+    height: 100vh;
+}
+.user_card {
+    width: 400px;
+    background: #0e2238;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.brand_logo_container {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.brand_logo {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 3px solid white;
+}
+.input-group-text {
+    background: #c0392b;
+    color: white;
+}
+.btn-primary {
+    background: #c0392b;
+    border: none;
+}
+.btn-primary:hover {
+    background: #a83227;
+}
+.sign-up a {
+    color: #c0392b;
+    text-decoration: none;
+}
+.sign-up a:hover {
+    text-decoration: underline;
+}
